@@ -1,0 +1,2 @@
+model_checkpoint_path: "invader_net.ckpt"
+all_model_checkpoint_paths: "invader_net.ckpt"
